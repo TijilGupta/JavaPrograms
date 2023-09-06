@@ -12,7 +12,8 @@ public class Example1 {
 			int age=a;
 		}
 		
-		void display()   // i have done some changes becoz program was executing abnormally.
+		void display()   // i have done some changes from Eclipse becoz program was executing abnormally.
+	  //Now i commit from GitRemote
 		 {
 		System.out.println(colour+""+age);
 		 }
