@@ -6,6 +6,7 @@ public class GitClass {
 		//Adding first Line of code
 		//Adding new code from GitHub
 		//Adding a code GitHub desktop.
+		//Adding one more code of GitHub.
 	}
 
 }
