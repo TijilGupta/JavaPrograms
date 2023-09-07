@@ -40,6 +40,7 @@ public class StringDemo {
 		{
 			System.out.println("Each value of Splitted String:"+a);
 		}
+		// commiting from GitRemote
 		
 	}
 
