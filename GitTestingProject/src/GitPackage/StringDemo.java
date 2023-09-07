@@ -41,6 +41,7 @@ public class StringDemo {
 			System.out.println("Each value of Splitted String:"+a);
 		}
 		// commiting from GitRemote
+		//commit from Eclipse but push from Bash
 		
 	}
 
