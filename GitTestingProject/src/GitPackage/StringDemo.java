@@ -42,6 +42,7 @@ public class StringDemo {
 		}
 		// commiting from GitRemote
 		//commit from Eclipse but push from Bash
+		//adding cod efrom GitHub Desktop
 		
 	}
 
