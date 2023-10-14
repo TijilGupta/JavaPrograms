@@ -1,5 +1,11 @@
 package GitPackage;
 
+import java.time.Duration;
+import java.util.List;
+
+
+
+
 public class StringDemo {
 
 	public static void main(String[] args) {
@@ -43,7 +49,9 @@ public class StringDemo {
 		// commiting from GitRemote
 		//commit from Eclipse but push from Bash
 		//adding cod efrom GitHub Desktop
-		
-	}
+		 //get the actual value of the title
+    
+}
+	
 
 }
