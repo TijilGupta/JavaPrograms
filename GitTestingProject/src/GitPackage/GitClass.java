@@ -11,6 +11,7 @@ public class GitClass {
 		//Adding code to check the flow from Gitbash/windows terminal
 		//Pull code from GitWebsite to GItDesktop.
 		//push from Git Remote Git.
+		//push from Local Git
 	}
 
 }
