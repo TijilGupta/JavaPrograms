@@ -10,6 +10,7 @@ public class GitClass {
 		//Editing Directly in GitHub website
 		//Adding code to check the flow from Gitbash/windows terminal
 		//Pull code from GitWebsite to GItDesktop.
+		//push from Git Remote Git.
 	}
 
 }
